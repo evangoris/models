@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="9.1933668"
-     inkscape:cx="367.33006"
-     inkscape:cy="280.63712"
+     inkscape:zoom="0.8125865"
+     inkscape:cx="212.90041"
+     inkscape:cy="323.65785"
      inkscape:window-width="1846"
      inkscape:window-height="1057"
      inkscape:window-x="1986"
@@ -643,5 +643,11 @@
        id="image13306"
        x="0.63798201"
        y="0.65879351"
-       style="display:inline;opacity:1"
-       inkscape:label="uv" /></g></svg>
+       style="display:none;opacity:1"
+       inkscape:label="uv" /><rect
+       style="fill:#da202a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.490098;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect2898"
+       width="23.244967"
+       height="22.793608"
+       x="113.7378"
+       y="-38.219585" /></g></svg>
